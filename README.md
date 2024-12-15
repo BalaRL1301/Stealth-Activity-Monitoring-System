@@ -9,10 +9,13 @@ Just run the script
 
 ~ How to use this project ~
 
-1 Create an account on "https://mailtrap.io/" using a temporary mail.
-2 Set your own SMTP USERNAME and SMTP PASSWORD on "keylogger.py" file.
-3 In the Terminal enter this line "pip install -r requirements.txt".
-4 in Terminal enter this line "python3 keylogger.py".
+1. Create an account on "https://mailtrap.io/" using a temporary mail.
+
+2. Set your own SMTP USERNAME and SMTP PASSWORD on "keylogger.py" file.
+
+3. In the Terminal enter this line "pip install -r requirements.txt".
+
+4. in Terminal enter this line "python3 keylogger.py".
 
 Every 10 seconds,You Get the Data from the Target Computer
 
