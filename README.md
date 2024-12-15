@@ -14,6 +14,6 @@ Just run the script
 3 In the Terminal enter this line "pip install -r requirements.txt".
 4 in Terminal enter this line "python3 keylogger.py".
 
-# Every 10 seconds,You Get the Data from the Target Computer
+Every 10 seconds,You Get the Data from the Target Computer
 
-# If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.
+If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.
